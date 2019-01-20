@@ -1,5 +1,5 @@
 # link-protect-software-manager
-Manage Link Protect on software platform
+Manage Link Protect on software platform (Only applicable for v4 & is in testing phase)
 
 # How to setup?
 Just put web-api folder into the home directory of Link Protect (with index.php). After, run software and access.
